@@ -6,7 +6,5 @@ Tập trung vào khả năng chịu tải và tính mở rộng của hệ thố
 
 
 -Ý tưởng: Nền tảng đấu giá trực tuyến thời gian thực (Real-time Online Auction).
-
 -Thử thách kỹ thuật: Xử lý hàng nghìn người cùng đấu giá một lúc, đảm bảo tính nhất quán của dữ liệu (Consistency), chống spam.
-
 -Công nghệ: Microservices với Node.js, Redis (để lưu cache và xử lý tranh chấp), RabbitMQ hoặc Kafka (để truyền thông điệp), Socket.io (cho thời gian thực).
